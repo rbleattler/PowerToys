@@ -523,6 +523,7 @@ EWXREBOOT
 EWXSHUTDOWN
 examplehandler
 examplepowertoy
+EXAND
 EXCLUDEFROMCAPTURE
 exdisp
 executionpolicy
