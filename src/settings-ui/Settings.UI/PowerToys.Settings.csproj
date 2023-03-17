@@ -136,6 +136,8 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Update="OOBE\Views\OobeOverviewAlternate.xaml">
+    </Page>
+    <Page Update="Views\RegistryPreviewPage.xaml">
       <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
     </Page>
   </ItemGroup>
