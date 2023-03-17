@@ -26,7 +26,6 @@ namespace Microsoft.PowerToys.Settings.UI.OOBE.Enums
         Hosts,
         PastePlain,
         WhatsNew,
-
-        // TODO: RegistryPreview,
+        RegistryPreview,
     }
 }
