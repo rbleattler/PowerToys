@@ -256,6 +256,11 @@ namespace powertoys_gpo {
         return getConfiguredValue(POLICY_CONFIGURE_ENABLED_VIDEO_CONFERENCE_MUTE);
     }
 
+    inline gpo_rule_configured_t getConfiguredRegistryPreviewEnabledValue()
+    {
+        return getConfiguredValue(POLICY_CONFIGURE_ENABLED_REGISTRY_PREVIEW);
+    }
+
     inline gpo_rule_configured_t getDisableAutomaticUpdateDownloadValue()
     {
         return getConfiguredValue(POLICY_DISABLE_AUTOMATIC_UPDATE_DOWNLOAD);
@@ -274,10 +279,5 @@ namespace powertoys_gpo {
     inline gpo_rule_configured_t getAllowExperimentationValue()
     {
         return getConfiguredValue(POLICY_ALLOW_EXPERIMENTATION);
-    }
-
-    inline gpo_rule_configured_t getConfiguredRegistryPreviewEnabledValue()
-    {
-        return getConfiguredValue(POLICY_CONFIGURE_ENABLED_REGISTRY_PREVIEW);
     }
 }

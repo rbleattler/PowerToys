@@ -3037,34 +3037,6 @@ Activate by holding the key for the character you want to add an accent to, then
     <value>The maximum size, in kilobytes, for files to be displayed. This is a safety mechanism to prevent loading large files into RAM.</value>
     <comment>"RAM" refers to random access memory; "size" refers to disk space; "bytes" refer to the measurement unit</comment>
   </data>
-  <data name="MouseUtils_MouseJump.Description" xml:space="preserve">
-    <value>Quickly move the mouse pointer long distances.</value>
-    <comment>"Mouse Jump" is the name of the utility. Mouse is the hardware mouse.</comment>
-  </data>
-  <data name="MouseUtils_MouseJump.Header" xml:space="preserve">
-    <value>Mouse Jump</value>
-    <comment>Refers to the utility name</comment>
-  </data>
-  <data name="MouseUtils_MouseJump_ActivationShortcut.Description" xml:space="preserve">
-    <value>Customize the shortcut to turn on or off this mode</value>
-  </data>
-  <data name="MouseUtils_MouseJump_ActivationShortcut.Header" xml:space="preserve">
-    <value>Activation shortcut</value>
-  </data>
-  <data name="MouseUtils_Enable_MouseJump.Header" xml:space="preserve">
-    <value>Enable Mouse Jump</value>
-    <comment>"Mouse Jump" is the name of the utility.</comment>
-  </data>
-  <data name="GPO_AutoDownloadUpdatesIsDisabled.Title" xml:space="preserve">
-    <value>The system administrator has disabled the automatic download of updates.</value>
-  </data>
-  <data name="Hosts_Toggle_LoopbackDuplicates.Description" xml:space="preserve">
-    <value>127.0.0.1, ::1, ...</value>
-    <comment>"127.0.0.1 and ::1" are well known loopback addresses, do not loc</comment>
-  </data>
-  <data name="Hosts_Toggle_LoopbackDuplicates.Header" xml:space="preserve">
-    <value>Consider loopback addresses as duplicates</value>
-  </data>
   <data name="RegistryPreview.ModuleDescription" xml:space="preserve">
     <value>This is a quick little utility to visualize complex registry files.</value>
   </data>
@@ -3099,5 +3071,33 @@ Activate by holding the key for the character you want to add an accent to, then
   <data name="Launch_RegistryPreview.Content" xml:space="preserve">
     <value>Launch Registry Preview</value>
     <comment>"Registry Preview" is the name of the utility</comment>
+  </data>
+  <data name="MouseUtils_MouseJump.Description" xml:space="preserve">
+    <value>Quickly move the mouse pointer long distances.</value>
+    <comment>"Mouse Jump" is the name of the utility. Mouse is the hardware mouse.</comment>
+  </data>
+  <data name="MouseUtils_MouseJump.Header" xml:space="preserve">
+    <value>Mouse Jump</value>
+    <comment>Refers to the utility name</comment>
+  </data>
+  <data name="MouseUtils_MouseJump_ActivationShortcut.Description" xml:space="preserve">
+    <value>Customize the shortcut to turn on or off this mode</value>
+  </data>
+  <data name="MouseUtils_MouseJump_ActivationShortcut.Header" xml:space="preserve">
+    <value>Activation shortcut</value>
+  </data>
+  <data name="MouseUtils_Enable_MouseJump.Header" xml:space="preserve">
+    <value>Enable Mouse Jump</value>
+    <comment>"Mouse Jump" is the name of the utility.</comment>
+  </data>
+  <data name="GPO_AutoDownloadUpdatesIsDisabled.Title" xml:space="preserve">
+    <value>The system administrator has disabled the automatic download of updates.</value>
+  </data>
+  <data name="Hosts_Toggle_LoopbackDuplicates.Description" xml:space="preserve">
+    <value>127.0.0.1, ::1, ...</value>
+    <comment>"127.0.0.1 and ::1" are well known loopback addresses, do not loc</comment>
+  </data>
+  <data name="Hosts_Toggle_LoopbackDuplicates.Header" xml:space="preserve">
+    <value>Consider loopback addresses as duplicates</value>
   </data>
 </root>

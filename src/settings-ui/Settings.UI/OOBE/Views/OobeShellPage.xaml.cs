@@ -246,8 +246,8 @@ namespace Microsoft.PowerToys.Settings.UI.OOBE.Views
                     case "MouseUtils": NavigationFrame.Navigate(typeof(OobeMouseUtils)); break;
                     case "MeasureTool": NavigationFrame.Navigate(typeof(OobeMeasureTool)); break;
                     case "Hosts": NavigationFrame.Navigate(typeof(OobeHosts)); break;
-                    case "PastePlain": NavigationFrame.Navigate(typeof(OobePastePlain)); break;
                     case "RegistryPreview": NavigationFrame.Navigate(typeof(OobeRegistryPreview)); break;
+                    case "PastePlain": NavigationFrame.Navigate(typeof(OobePastePlain)); break;
                 }
             }
         }
