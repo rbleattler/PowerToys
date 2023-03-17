@@ -3037,6 +3037,7 @@ Activate by holding the key for the character you want to add an accent to, then
     <value>The maximum size, in kilobytes, for files to be displayed. This is a safety mechanism to prevent loading large files into RAM.</value>
     <comment>"RAM" refers to random access memory; "size" refers to disk space; "bytes" refer to the measurement unit</comment>
   </data>
+<<<<<<< HEAD
   <data name="MouseUtils_MouseJump.Description" xml:space="preserve">
     <value>Quickly move the mouse pointer long distances.</value>
     <comment>"Mouse Jump" is the name of the utility. Mouse is the hardware mouse.</comment>
@@ -3065,6 +3066,8 @@ Activate by holding the key for the character you want to add an accent to, then
   <data name="Hosts_Toggle_LoopbackDuplicates.Header" xml:space="preserve">
     <value>Consider loopback addresses as duplicates</value>
   </data>
+=======
+>>>>>>> 7ace14d82 (Merging file from upstream)
   <data name="RegistryPreview.ModuleDescription" xml:space="preserve">
     <value>This is a quick little utility to visualize complex registry files.</value>
   </data>
